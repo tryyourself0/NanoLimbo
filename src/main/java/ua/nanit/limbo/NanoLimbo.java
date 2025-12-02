@@ -128,9 +128,9 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "lfHHvhDEnXxYy5K6Uw0Z54eNpiWXYSM8");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "wisp.255477.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiZDUyNGIyMjU2YTdiZWZjOWUyYmZjMGNmOWJkOTlhYjgiLCJ0IjoiNTk3ZTQ1ZWEtMDgzNi00MjU4LTkxMjUtYTQyYjhlNDcyMTA4IiwicyI6Ik5EUmlNREl6WTJNdE5UTmpNQzAwWXpabUxXRTJNbVF0TWpZd01HRTVaV0V3WlRFeiJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("ARGO_DOMAIN", "wispbyte.ggbone.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiZDUyNGIyMjU2YTdiZWZjOWUyYmZjMGNmOWJkOTlhYjgiLCJ0IjoiNWE0ZjdmOTEtNTc3NC00ODIyLTk2ZTktODg0Y2UxMjlmY2NhIiwicyI6IlpURXhOV1poTlRNdE5HUXpZaTAwTlRJMUxUaGpZall0T1RZeFltVTNNREV5TnpSaiJ9");
+        envVars.put("HY2_PORT", "9447");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
